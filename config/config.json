@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "01@Levi-28",
+    "password": "",
     "database": "dbagendamento",
     "host": "127.0.0.1",
     "dialect": "mysql"
